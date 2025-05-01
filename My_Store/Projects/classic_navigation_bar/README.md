@@ -15,3 +15,8 @@ Add this to your `pubspec.yaml`:
 ```yaml
 dependencies:
   classic_navigation_bar: ^0.1.0
+
+
+## Demo
+
+![Classic Navigation Bar](screenshots/classic_nav_bar.png)
