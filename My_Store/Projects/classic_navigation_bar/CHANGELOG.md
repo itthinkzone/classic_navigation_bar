@@ -1,3 +1,7 @@
+## 0.1.4
+- Enhanced README.md with badges, table of contents, and a "Useful Tips" section.
+- Fixed missing screenshots and GIF in README.md.
+
 ## 0.1.3
 - Moved `NavigationScreen` to `main.dart` and removed `navigation_screen` directory.
 - Updated `README.md` to match `persistent_bottom_nav_bar_v2` style with screenshots.
