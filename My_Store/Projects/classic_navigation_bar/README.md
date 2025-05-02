@@ -12,7 +12,7 @@ Lightweight and easy to integrate into any Flutter app.
 Installation
 Add this to your pubspec.yaml:
 dependencies:
-classic_navigation_bar: ^0.1.2
+classic_navigation_bar: ^0.1.3
 
 Run:
 flutter pub get
@@ -28,6 +28,25 @@ import 'package:flutter/material.dart';
 import 'package:remixicon/remixicon.dart';
 import 'package:classic_navigation_bar/src/constants.dart';
 import 'package:classic_navigation_bar/classic_navigation_bar.dart';
+
+void main() {
+runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+const MyApp({super.key});
+
+@override
+Widget build(BuildContext context) {
+return MaterialApp(
+title: 'Classic Navigation Bar Example',
+theme: ThemeData(
+primarySwatch: Colors.blue,
+),
+home: const NavigationScreen(),
+);
+}
+}
 
 class NavigationScreen extends StatefulWidget {
 final int index;
