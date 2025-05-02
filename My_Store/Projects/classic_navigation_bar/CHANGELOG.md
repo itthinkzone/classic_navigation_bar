@@ -1,3 +1,7 @@
+## 0.1.5
+- Fixed README.md: corrected package name, description, badges, and image URLs.
+- Added missing screenshots and GIF for proper rendering on pub.dev.
+
 ## 0.1.4
 - Enhanced README.md with badges, table of contents, and a "Useful Tips" section.
 - Fixed missing screenshots and GIF in README.md.

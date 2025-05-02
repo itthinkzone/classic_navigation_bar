@@ -1,4 +1,4 @@
-# IT THINK ZONE CLASSIC NAVIGATION BAR 4
+# IT THINK ZONE CLASSIC NAVIGATION BAR 5
 
 [![Build](https://github.com/jb3rndt/PersistentBottomNavBarV2/actions/workflows/tests.yaml/badge.svg?branch=master)](https://github.com/jb3rndt/PersistentBottomNavBarV2/actions)
 [![Coverage](https://codecov.io/gh/jb3rndt/PersistentBottomNavBarV2/branch/master/graph/badge.svg)](https://app.codecov.io/gh/jb3rndt/PersistentBottomNavBarV2/)
@@ -13,16 +13,16 @@ A highly customizable bottom navigation bar for Flutter. It can also be used wit
 
 
 <p align="center">
-<img src="https://github.com/itthinkzone/classic_navigation_bar/blob/main/My_Store/Projects/classic_navigation_bar/screenshots/classic_nav_bar.png" alt="Preview" style="height:400px;"/>
+  <img src="https://github.com/itthinkzone/classic_navigation_bar/blob/main/screenshots/classic_nav_bar.png?raw=true" alt="Classic Navigation Bar Demo" style="height:400px;"/>
 </p>
 
 
 
-## Styles
+## Showcase
 
-| Style1                     |                      |                     |
-| -------------------------- | -------------------------- | -------------------------- |
-| ![style1](screenshots/classic_nav_bar.png) |  |  |
+See the `ClassicNavigationBar` in action:
+
+![Classic Navigation Bar](https://github.com/itthinkzone/classic_navigation_bar/blob/main/screenshots/classic_nav_bar.png?raw=true)
 
 Note: These do not include all style variations
 
